@@ -9,7 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.17.1",
     "handlebars": "^4.7.7",
+    "html-pdf-node": "^1.0.7",
     "puppeteer": "^10.1.0"
   }
 }
